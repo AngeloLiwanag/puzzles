@@ -1,0 +1,11 @@
+/Users/angeloliwanag/Documents/CodingDojo/C#/Language_Fundamentals/puzzles/bin/Debug/netcoreapp2.2/puzzles.deps.json
+/Users/angeloliwanag/Documents/CodingDojo/C#/Language_Fundamentals/puzzles/bin/Debug/netcoreapp2.2/puzzles.runtimeconfig.json
+/Users/angeloliwanag/Documents/CodingDojo/C#/Language_Fundamentals/puzzles/bin/Debug/netcoreapp2.2/puzzles.runtimeconfig.dev.json
+/Users/angeloliwanag/Documents/CodingDojo/C#/Language_Fundamentals/puzzles/bin/Debug/netcoreapp2.2/puzzles.dll
+/Users/angeloliwanag/Documents/CodingDojo/C#/Language_Fundamentals/puzzles/bin/Debug/netcoreapp2.2/puzzles.pdb
+/Users/angeloliwanag/Documents/CodingDojo/C#/Language_Fundamentals/puzzles/obj/Debug/netcoreapp2.2/puzzles.csprojAssemblyReference.cache
+/Users/angeloliwanag/Documents/CodingDojo/C#/Language_Fundamentals/puzzles/obj/Debug/netcoreapp2.2/puzzles.csproj.CoreCompileInputs.cache
+/Users/angeloliwanag/Documents/CodingDojo/C#/Language_Fundamentals/puzzles/obj/Debug/netcoreapp2.2/puzzles.AssemblyInfoInputs.cache
+/Users/angeloliwanag/Documents/CodingDojo/C#/Language_Fundamentals/puzzles/obj/Debug/netcoreapp2.2/puzzles.AssemblyInfo.cs
+/Users/angeloliwanag/Documents/CodingDojo/C#/Language_Fundamentals/puzzles/obj/Debug/netcoreapp2.2/puzzles.dll
+/Users/angeloliwanag/Documents/CodingDojo/C#/Language_Fundamentals/puzzles/obj/Debug/netcoreapp2.2/puzzles.pdb
